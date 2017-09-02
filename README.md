@@ -16,7 +16,7 @@
 | Week 10 :  |   |   |   |   |
 | Week 11 :  |   |   |   |   |
 
-###Algorithm Check List
+### Algorithm Check List
 
 1. What is it?
 2. How is it helping me?
